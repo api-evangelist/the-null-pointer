@@ -1,0 +1,32 @@
+aid: the-null-pointer
+name: The Null Pointer
+description: "No-bullshit file hosting and URL shortening service"
+url: https://0x0.st
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cloud Storage & File Sharing"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cloud Storage And File Sharing
+  - Public APIs
+apis:
+  - name: The Null Pointer
+    description: "No-bullshit file hosting and URL shortening service"
+    humanURL: https://0x0.st
+    baseURL: https://0x0.st
+    tags:
+      - Cloud Storage And File Sharing
+    properties:
+      - type: Documentation
+        url: https://0x0.st
+common:
+  - type: Website
+    url: https://0x0.st
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
