@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://0x0.st
 common:
+  - type: DomainSecurity
+    url: security/the-null-pointer-domain-security.yml
   - type: Website
     url: https://0x0.st
   - type: PublicAPIsListing
