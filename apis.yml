@@ -33,13 +33,13 @@ x-category: "Cloud Storage & File Sharing"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Cloud Storage And File Sharing
   - Public APIs
+  - File Sharing
+  - URL Shorteners
 apis:
   - name: The Null Pointer
     description: "No-bullshit file hosting and URL shortening service"
     humanURL: https://0x0.st
-    baseURL: https://0x0.st
     tags:
       - Cloud Storage And File Sharing
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Cloud Storage And File Sharing
