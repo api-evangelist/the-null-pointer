@@ -40,7 +40,8 @@ apis:
   - name: The Null Pointer
     description: "No-bullshit file hosting and URL shortening service"
     humanURL: https://0x0.st
-    tags:
+    tags: []
+    tags_raw:
       - Cloud Storage And File Sharing
     properties:
       - type: Documentation
